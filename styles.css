@@ -1,0 +1,60 @@
+*{
+    font-family: "Open Sans", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image:url(./img/img.fundo.jpg);
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+   margin: 70px 0px 0px 250px;
+   display: inline-block;
+   color: #ffff;
+   font-size: 50px;
+   cursor: pointer;
+}
+
+header{
+    font-weight: 800;
+    cursor: pointer;
+    margin-left: 600px;
+    color: #ffff;
+    display:inline-block
+
+}
+
+.link-header{
+    padding: 10px 20px;
+    font-size: 30px;
+}
+
+section{
+    margin: 180px 0px 0px 60px;
+}
+
+p{
+    width: 500px;
+    font-weight: 400px;
+    font-size: 25px;
+    line-height: 30px;
+    color:#ffff;
+}
+
+.button-section{
+    margin: 100px 0px 0px 200px;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 10px;
+    border: none;
+    background-color:#003964;
+    font-size: 25px;
+    font-weight: 500;
+    color: #ffff;
+
+
+}
